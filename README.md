@@ -1,6 +1,6 @@
 # Model viewer for JSON Sketchup exports (using three.js)
 
-![PFFDTD Screenshot](https://github.com/bsxfun/pffdtd/raw/main/screenshot.png)
+![PFFDTD Screenshot](https://github.com/bsxfun/pffdtd_js_model_viewer/raw/main/screenshot.png)
 Just open the .html file (locally) and open your JSON file exported from the PFFDTD Sketchup plugin.
 
 ## License
